@@ -25,7 +25,8 @@
                                  english="for"
                                  mandarin="交给"
                                  transliteration="la"
-                                 oshb-strongs="l">לַ</m>
+                                 oshb-strongs="l"
+                                 gloss="to">לַ</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="DetNP" Head="1" nodeId="1914000100110020">
@@ -44,7 +45,8 @@
                                  type="definite article"
                                  english="the"
                                  transliteration="–"
-                                 oshb-strongs="d"/>
+                                 oshb-strongs="d"
+                                 gloss="the"/>
                            </Node>
                            <Node Cat="np" Rule="Vp2Np" Head="0" nodeId="1914000100120012">
                               <Node Cat="vp" Rule="V2VP" Head="0" nodeId="1914000100120011">
@@ -73,7 +75,8 @@
                                        LexDomain="002003002008"
                                        transliteration="mənaṣṣēᵃḥ"
                                        oshb-strongs="5329"
-                                       CoreDomain="">מְנַצֵּ֗חַ</m>
+                                       CoreDomain=""
+                                       gloss="choirmaster">מְנַצֵּ֗חַ</m>
                                  </Node>
                               </Node>
                            </Node>
@@ -134,7 +137,8 @@
                                  pos="preposition"
                                  english="of"
                                  transliteration="lə"
-                                 oshb-strongs="l">לְ</m>
+                                 oshb-strongs="l"
+                                 gloss="of">לְ</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="N2NP" Head="0" nodeId="1914000100320011">
@@ -160,7 +164,8 @@
                                  LexDomain="003001007"
                                  transliteration="ḏāwiḏ:"
                                  oshb-strongs="1732"
-                                 CoreDomain="">דָוִֽד</m>
+                                 CoreDomain=""
+                                 gloss="David">דָוִֽד</m>
                            </Node>
                         </Node>
                      </Node>
@@ -235,7 +240,8 @@
                                  SDBH="002308001003000"
                                  CoreDomain="152 196"
                                  LexDomain="002003003018"
-                                 oshb-strongs="2502a">חַלְּצֵ֣</m>
+                                 oshb-strongs="2502a"
+                                 gloss="rescue">חַלְּצֵ֣</m>
                            </Node>
                         </Node>
                      </Node>
@@ -265,7 +271,8 @@
                                  SDBH="002308001003000"
                                  LexDomain="002003003018"
                                  CoreDomain="152 196"
-                                 lemma="הוּא">נִי</m>
+                                 lemma="הוּא"
+                                 gloss="me">נִי</m>
                            </Node>
                         </Node>
                      </Node>
@@ -289,7 +296,8 @@
                                     english="from"
                                     mandarin="脱离"
                                     transliteration="mē"
-                                    oshb-strongs="m">מֵ</m>
+                                    oshb-strongs="m"
+                                    gloss="from">מֵ</m>
                               </Node>
                            </Node>
                            <Node Cat="np" Rule="NpAdjp" Head="0" nodeId="1914000200320020">
@@ -320,7 +328,8 @@
                                        LexDomain="001001002003"
                                        transliteration="ʾāḏām"
                                        oshb-strongs="120"
-                                       CoreDomain="">אָדָ֣ם</m>
+                                       CoreDomain=""
+                                       gloss="a.man">אָדָ֣ם</m>
                                  </Node>
                               </Node>
                               <Node Cat="adjp" Rule="Adj2Adjp" Head="0" nodeId="1914000200410011">
@@ -380,7 +389,8 @@
                                  english="from"
                                  mandarin="脱离"
                                  transliteration="mē"
-                                 oshb-strongs="m">מֵ</m>
+                                 oshb-strongs="m"
+                                 gloss="from">מֵ</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="NPofNP" Head="0" nodeId="1914000200520020">
@@ -408,7 +418,8 @@
                                     english="men"
                                     mandarin="人"
                                     transliteration="ʾiyš"
-                                    oshb-strongs="376">אִ֖ישׁ</m>
+                                    oshb-strongs="376"
+                                    gloss="a.man">אִ֖ישׁ</m>
                               </Node>
                            </Node>
                            <Node Cat="np" Rule="N2NP" Head="0" nodeId="1914000200610011">
@@ -474,7 +485,8 @@
                               SDBH="004893001008000"
                               LexDomain="002003003018"
                               oshb-strongs="5341"
-                              CoreDomain="">תִּנְצְרֵֽ</m>
+                              CoreDomain=""
+                              gloss="you">תִּנְצְרֵֽ</m>
                         </Node>
                      </Node>
                   </Node>
@@ -504,7 +516,8 @@
                               SDBH="004893001008000"
                               LexDomain="002003003018"
                               CoreDomain=""
-                              lemma="הוּא">נִי</m>
+                              lemma="הוּא"
+                              gloss="will.preserve.me">נִי</m>
                         </Node>
                      </Node>
                   </Node>
@@ -632,7 +645,8 @@
                                              english="in"
                                              mandarin="中"
                                              transliteration="bə"
-                                             oshb-strongs="b">בְּ</m>
+                                             oshb-strongs="b"
+                                             gloss="in.[the]">בְּ</m>
                                        </Node>
                                     </Node>
                                     <Node Cat="np" Rule="N2NP" Head="0" nodeId="1914000300420011">
@@ -662,7 +676,8 @@
                                              CoreDomain="106"
                                              LexDomain="002004002014"
                                              transliteration="lēḇ"
-                                             oshb-strongs="3820a">לֵ֑ב</m>
+                                             oshb-strongs="3820a"
+                                             gloss="heart">לֵ֑ב</m>
                                        </Node>
                                     </Node>
                                  </Node>
@@ -872,7 +887,8 @@
                                  SDBH="003623001001000"
                                  CoreDomain="019"
                                  LexDomain="001001002"
-                                 oshb-strongs="3956">לְשׁוֹנָ</m>
+                                 oshb-strongs="3956"
+                                 gloss="tongue">לְשׁוֹנָ</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914000400220011">
@@ -900,7 +916,8 @@
                                  SDBH="003623001001000"
                                  LexDomain="001001002"
                                  CoreDomain="019"
-                                 lemma="הוּא">ם֮</m>
+                                 lemma="הוּא"
+                                 gloss="their">ם֮</m>
                            </Node>
                         </Node>
                      </Node>
@@ -1079,7 +1096,8 @@
                                     state="construct"
                                     english="lips"
                                     mandarin="嘴唇"
-                                    oshb-strongs="8193">שְׂפָתֵ֣י</m>
+                                    oshb-strongs="8193"
+                                    gloss="lips">שְׂפָתֵ֣י</m>
                               </Node>
                            </Node>
                            <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914000400820011">
@@ -1102,7 +1120,8 @@
                                     number="plural"
                                     english="their"
                                     mandarin="他们"
-                                    lemma="הוּא">מוֹ</m>
+                                    lemma="הוּא"
+                                    gloss="their">מוֹ</m>
                               </Node>
                            </Node>
                         </Node>
@@ -1202,7 +1221,8 @@
                                  oshb-strongs="8104"
                                  SDBH="007493001008000"
                                  LexDomain="002003003018"
-                                 CoreDomain="152 196">שָׁמְרֵ֤</m>
+                                 CoreDomain="152 196"
+                                 gloss="keep">שָׁמְרֵ֤</m>
                            </Node>
                         </Node>
                      </Node>
@@ -1232,7 +1252,8 @@
                                  SDBH="007493001008000"
                                  LexDomain="002003003018"
                                  CoreDomain="152 196"
-                                 lemma="הוּא">נִי</m>
+                                 lemma="הוּא"
+                                 gloss="me">נִי</m>
                            </Node>
                         </Node>
                      </Node>
@@ -1256,7 +1277,8 @@
                                     english="from"
                                     mandarin="脱离"
                                     transliteration="mi"
-                                    oshb-strongs="m">מִ֘</m>
+                                    oshb-strongs="m"
+                                    gloss="from.[the]">מִ֘</m>
                               </Node>
                            </Node>
                            <Node Cat="np" Rule="NPofNP" Head="0" nodeId="1914000500320020">
@@ -1287,7 +1309,8 @@
                                        CoreDomain="015"
                                        LexDomain="002003002008"
                                        transliteration="yḏēy"
-                                       oshb-strongs="3027">ידֵ֤י</m>
+                                       oshb-strongs="3027"
+                                       gloss="hands">ידֵ֤י</m>
                                  </Node>
                               </Node>
                               <Node Cat="np" Rule="Adj2NP" Head="0" nodeId="1914000500410012">
@@ -1349,7 +1372,8 @@
                                  english="from"
                                  mandarin="脱离"
                                  transliteration="mē"
-                                 oshb-strongs="m">מֵ</m>
+                                 oshb-strongs="m"
+                                 gloss="from">מֵ</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="NPofNP" Head="0" nodeId="1914000500520020">
@@ -1377,7 +1401,8 @@
                                     english="men"
                                     mandarin="人"
                                     transliteration="ʾiyš"
-                                    oshb-strongs="376">אִ֣ישׁ</m>
+                                    oshb-strongs="376"
+                                    gloss="a.man">אִ֣ישׁ</m>
                               </Node>
                            </Node>
                            <Node Cat="np" Rule="N2NP" Head="0" nodeId="1914000500610011">
@@ -1443,7 +1468,8 @@
                               SDBH="004893001008000"
                               LexDomain="002003003018"
                               oshb-strongs="5341"
-                              CoreDomain="">תִּנְצְרֵ֑</m>
+                              CoreDomain=""
+                              gloss="you">תִּנְצְרֵ֑</m>
                         </Node>
                      </Node>
                   </Node>
@@ -1473,7 +1499,8 @@
                               SDBH="004893001008000"
                               LexDomain="002003003018"
                               CoreDomain=""
-                              lemma="הוּא">נִי</m>
+                              lemma="הוּא"
+                              gloss="will.preserve.me">נִי</m>
                         </Node>
                      </Node>
                   </Node>
@@ -1558,7 +1585,8 @@
                                              english="to"
                                              mandarin="要"
                                              transliteration="li"
-                                             oshb-strongs="l">לִ</m>
+                                             oshb-strongs="l"
+                                             gloss="to">לִ</m>
                                        </Node>
                                     </Node>
                                     <Node Cat="CL" Rule="V-O" Head="0" nodeId="1914000501020030">
@@ -1589,7 +1617,8 @@
                                                    CoreDomain="173"
                                                    LexDomain="002003003012"
                                                    transliteration="ḏəḥôṯ"
-                                                   oshb-strongs="1760a">דְח֥וֹת</m>
+                                                   oshb-strongs="1760a"
+                                                   gloss="push.down">דְח֥וֹת</m>
                                              </Node>
                                           </Node>
                                        </Node>
@@ -1618,7 +1647,8 @@
                                                       oshb-strongs="6471"
                                                       SDBH="005948001003000"
                                                       LexDomain="002002002001"
-                                                      CoreDomain="017">פְּעָמָֽ</m>
+                                                      CoreDomain="017"
+                                                      gloss="footsteps">פְּעָמָֽ</m>
                                                 </Node>
                                              </Node>
                                              <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914000501120011">
@@ -1646,7 +1676,8 @@
                                                       SDBH="005948001003000"
                                                       LexDomain="002002002001"
                                                       CoreDomain="017"
-                                                      lemma="הוּא">י</m>
+                                                      lemma="הוּא"
+                                                      gloss="my">י</m>
                                                 </Node>
                                              </Node>
                                           </Node>
@@ -1788,7 +1819,8 @@
                                  pos="conjunction"
                                  english="and"
                                  transliteration="wa"
-                                 oshb-strongs="c">וַ</m>
+                                 oshb-strongs="c"
+                                 gloss="and">וַ</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="N2NP" Head="0" nodeId="1914000600520011">
@@ -1818,7 +1850,8 @@
                                  CoreDomain="040 084 010"
                                  LexDomain="001004001018"
                                  transliteration="ḥăḇāliym"
-                                 oshb-strongs="2256a">חֲבָלִ֗ים</m>
+                                 oshb-strongs="2256a"
+                                 gloss="ropes">חֲבָלִ֗ים</m>
                            </Node>
                         </Node>
                      </Node>
@@ -1840,7 +1873,8 @@
                                  pos="preposition"
                                  english="for"
                                  mandarin="为"
-                                 oshb-strongs="l">לִ֗</m>
+                                 oshb-strongs="l"
+                                 gloss="for">לִ֗</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914000600420011">
@@ -1865,7 +1899,8 @@
                                  number="singular"
                                  english="me"
                                  mandarin="我"
-                                 lemma="הוּא">י</m>
+                                 lemma="הוּא"
+                                 gloss="me">י</m>
                            </Node>
                         </Node>
                      </Node>
@@ -1957,7 +1992,8 @@
                                  english="by"
                                  mandarin="在"
                                  transliteration="lə"
-                                 oshb-strongs="l">לְ</m>
+                                 oshb-strongs="l"
+                                 gloss="to.[the]">לְ</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="NPofNP" Head="0" nodeId="1914000600820020">
@@ -1986,7 +2022,8 @@
                                     LexDomain="002002001013"
                                     transliteration="yaḏ-"
                                     oshb-strongs="3027"
-                                    CoreDomain="">יַד</m>
+                                    CoreDomain=""
+                                    gloss="side">יַד</m>
                               </Node>
                            </Node>
                            <Node Cat="np" Rule="N2NP" Head="0" nodeId="1914000600910011">
@@ -2108,7 +2145,8 @@
                                  pos="preposition"
                                  english="for"
                                  mandarin="为"
-                                 oshb-strongs="l">לִ֣</m>
+                                 oshb-strongs="l"
+                                 gloss="for">לִ֣</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914000601220011">
@@ -2133,7 +2171,8 @@
                                  number="singular"
                                  english="me"
                                  mandarin="我"
-                                 lemma="הוּא">י</m>
+                                 lemma="הוּא"
+                                 gloss="me">י</m>
                            </Node>
                         </Node>
                      </Node>
@@ -2229,7 +2268,8 @@
                                  english="to"
                                  mandarin="对"
                                  transliteration="la"
-                                 oshb-strongs="l">לַ֭</m>
+                                 oshb-strongs="l"
+                                 gloss="to">לַ֭</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="N2NP" Head="0" nodeId="1914000700220011">
@@ -2255,7 +2295,8 @@
                                  LexDomain="003001004"
                                  transliteration="yhwâ"
                                  oshb-strongs="3068"
-                                 CoreDomain="">יהוָה</m>
+                                 CoreDomain=""
+                                 gloss="Yahweh">יהוָה</m>
                            </Node>
                         </Node>
                      </Node>
@@ -2289,7 +2330,8 @@
                                  SDBH="000382001002000"
                                  CoreDomain="055"
                                  LexDomain="001001001"
-                                 oshb-strongs="410">אֵ֣לִ</m>
+                                 oshb-strongs="410"
+                                 gloss="God">אֵ֣לִ</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914000700320011">
@@ -2317,7 +2359,8 @@
                                  SDBH="000382001002000"
                                  LexDomain="001001001"
                                  CoreDomain="055"
-                                 lemma="הוּא">י</m>
+                                 lemma="הוּא"
+                                 gloss="[are].my">י</m>
                            </Node>
                         </Node>
                      </Node>
@@ -2411,7 +2454,8 @@
                                  SDBH="000225001001000"
                                  CoreDomain="154 041"
                                  LexDomain="002004001003"
-                                 oshb-strongs="238">הַאֲזִ֥ינָ</m>
+                                 oshb-strongs="238"
+                                 gloss="give">הַאֲזִ֥ינָ</m>
                            </Node>
                            <Node n="o191400070052"
                                  Cat="x"
@@ -2431,7 +2475,8 @@
                                  lemma="ה"
                                  SDBH="000225001001000"
                                  LexDomain="002004001003"
-                                 CoreDomain="154 041">ה</m>
+                                 CoreDomain="154 041"
+                                 gloss="ear.to">ה</m>
                            </Node>
                         </Node>
                      </Node>
@@ -2489,7 +2534,8 @@
                                        SDBH="007770001001000"
                                        CoreDomain="036 041 170"
                                        LexDomain="002001002019"
-                                       oshb-strongs="8469">תַּחֲנוּנָֽ</m>
+                                       oshb-strongs="8469"
+                                       gloss="my.supplications">תַּחֲנוּנָֽ</m>
                                  </Node>
                               </Node>
                               <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914000700820011">
@@ -2517,7 +2563,8 @@
                                        SDBH="007770001001000"
                                        LexDomain="002001002019"
                                        CoreDomain="036 041 170"
-                                       lemma="הוּא">י</m>
+                                       lemma="הוּא"
+                                       gloss="of">י</m>
                                  </Node>
                               </Node>
                            </Node>
@@ -2588,7 +2635,8 @@
                                        SDBH="000136001001000"
                                        CoreDomain="055"
                                        LexDomain="003001017"
-                                       oshb-strongs="136">אֲ֭דֹנָ</m>
+                                       oshb-strongs="136"
+                                       gloss="Lord">אֲ֭דֹנָ</m>
                                  </Node>
                               </Node>
                               <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914000800220011">
@@ -2615,7 +2663,8 @@
                                        SDBH="000136001001000"
                                        LexDomain="003001017"
                                        CoreDomain="055"
-                                       lemma="הוּא">י</m>
+                                       lemma="הוּא"
+                                       gloss="O">י</m>
                                  </Node>
                               </Node>
                            </Node>
@@ -2678,7 +2727,8 @@
                                        SDBH="003152001001000"
                                        CoreDomain="152 196"
                                        LexDomain="002003003018"
-                                       oshb-strongs="3444">יְשׁוּעָתִ֑</m>
+                                       oshb-strongs="3444"
+                                       gloss="my.salvation">יְשׁוּעָתִ֑</m>
                                  </Node>
                               </Node>
                               <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914000800420011">
@@ -2706,7 +2756,8 @@
                                        SDBH="003152001001000"
                                        LexDomain="002003003018"
                                        CoreDomain="152 196"
-                                       lemma="הוּא">י</m>
+                                       lemma="הוּא"
+                                       gloss="of">י</m>
                                  </Node>
                               </Node>
                            </Node>
@@ -2764,7 +2815,8 @@
                                     english="over"
                                     mandarin="于"
                                     transliteration="lə"
-                                    oshb-strongs="l">לְ֝</m>
+                                    oshb-strongs="l"
+                                    gloss="(to)">לְ֝</m>
                               </Node>
                            </Node>
                            <Node Cat="np" Rule="NPofNP" Head="0" nodeId="1914000800620020">
@@ -2793,7 +2845,8 @@
                                        oshb-strongs="7218a"
                                        SDBH="006648001001000"
                                        LexDomain="001001002"
-                                       CoreDomain="">רֹאשִׁ֗</m>
+                                       CoreDomain=""
+                                       gloss="my">רֹאשִׁ֗</m>
                                  </Node>
                               </Node>
                               <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914000800630011">
@@ -2821,7 +2874,8 @@
                                        SDBH="006648001001000"
                                        LexDomain="001001002"
                                        CoreDomain=""
-                                       lemma="הוּא">י</m>
+                                       lemma="הוּא"
+                                       gloss="head">י</m>
                                  </Node>
                               </Node>
                            </Node>
@@ -2847,7 +2901,8 @@
                                     english="in"
                                     mandarin="在"
                                     transliteration="bə"
-                                    oshb-strongs="b">בְּ</m>
+                                    oshb-strongs="b"
+                                    gloss="in">בְּ</m>
                               </Node>
                            </Node>
                            <Node Cat="np" Rule="NPofNP" Head="0" nodeId="1914000800720020">
@@ -2878,7 +2933,8 @@
                                        CoreDomain="180"
                                        LexDomain="002002002010"
                                        transliteration="yôm"
-                                       oshb-strongs="3117">י֣וֹם</m>
+                                       oshb-strongs="3117"
+                                       gloss="a.day">י֣וֹם</m>
                                  </Node>
                               </Node>
                               <Node Cat="np" Rule="N2NP" Head="0" nodeId="1914000800810011">
@@ -3108,7 +3164,8 @@
                                  SDBH="001998001001000"
                                  CoreDomain="106"
                                  LexDomain="002004002014"
-                                 oshb-strongs="2162">זְמָמ֥</m>
+                                 oshb-strongs="2162"
+                                 gloss="plan">זְמָמ֥</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914000900620011">
@@ -3134,7 +3191,8 @@
                                  SDBH="001998001001000"
                                  LexDomain="002004002014"
                                  CoreDomain="106"
-                                 lemma="הוּא">וֹ</m>
+                                 lemma="הוּא"
+                                 gloss="his">וֹ</m>
                            </Node>
                         </Node>
                      </Node>
@@ -3330,7 +3388,8 @@
                                     oshb-strongs="4524"
                                     SDBH="004140001002000"
                                     LexDomain="001001002003004"
-                                    CoreDomain="">מְסִבָּ֑</m>
+                                    CoreDomain=""
+                                    gloss="my.surroundings">מְסִבָּ֑</m>
                               </Node>
                            </Node>
                            <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914001000220011">
@@ -3356,7 +3415,8 @@
                                     SDBH="004140001002000"
                                     LexDomain="001001002003004"
                                     CoreDomain=""
-                                    lemma="הוּא">י</m>
+                                    lemma="הוּא"
+                                    gloss="of">י</m>
                               </Node>
                            </Node>
                         </Node>
@@ -3416,7 +3476,8 @@
                                        state="construct"
                                        english="lips"
                                        mandarin="嘴唇"
-                                       oshb-strongs="8193">שְׂפָתֵ֣י</m>
+                                       oshb-strongs="8193"
+                                       gloss="their.lips">שְׂפָתֵ֣י</m>
                                  </Node>
                               </Node>
                               <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914001000420011">
@@ -3439,7 +3500,8 @@
                                        number="plural"
                                        english="their"
                                        mandarin="他们"
-                                       lemma="הוּא">מוֹ</m>
+                                       lemma="הוּא"
+                                       gloss="of">מוֹ</m>
                                  </Node>
                               </Node>
                            </Node>
@@ -3473,7 +3535,8 @@
                                  SDBH="003365001009000"
                                  LexDomain="002002003003"
                                  oshb-strongs="3680"
-                                 CoreDomain="">יְכַסֵּֽ</m>
+                                 CoreDomain=""
+                                 gloss="may">יְכַסֵּֽ</m>
                            </Node>
                         </Node>
                      </Node>
@@ -3503,7 +3566,8 @@
                                  SDBH="003365001009000"
                                  LexDomain="002002003003"
                                  CoreDomain=""
-                                 lemma="הוּא">מוֹ</m>
+                                 lemma="הוּא"
+                                 gloss="it.cover.them">מוֹ</m>
                            </Node>
                         </Node>
                      </Node>
@@ -3572,7 +3636,8 @@
                                  pos="preposition"
                                  english="on"
                                  mandarin="在~上"
-                                 oshb-strongs="5921a">עֲלֵי</m>
+                                 oshb-strongs="5921a"
+                                 gloss="on">עֲלֵי</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914001100320011">
@@ -3597,7 +3662,8 @@
                                  number="plural"
                                  english="them"
                                  mandarin="他们"
-                                 lemma="הוּא">הֶ֗ם</m>
+                                 lemma="הוּא"
+                                 gloss="them">הֶ֗ם</m>
                            </Node>
                         </Node>
                      </Node>
@@ -3657,7 +3723,8 @@
                                  english="into"
                                  mandarin="在~中"
                                  transliteration="bā"
-                                 oshb-strongs="b">בָּ</m>
+                                 oshb-strongs="b"
+                                 gloss="in">בָּ</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="DetNP" Head="1" nodeId="1914001100510020">
@@ -3676,7 +3743,8 @@
                                  type="definite article"
                                  english="the"
                                  transliteration="–"
-                                 oshb-strongs="d"/>
+                                 oshb-strongs="d"
+                                 gloss="the"/>
                            </Node>
                            <Node Cat="np" Rule="N2NP" Head="0" nodeId="1914001100520011">
                               <Node n="o191400110052"
@@ -3705,7 +3773,8 @@
                                     CoreDomain="067"
                                     LexDomain="001006006"
                                     transliteration="ʾēš"
-                                    oshb-strongs="784">אֵ֥שׁ</m>
+                                    oshb-strongs="784"
+                                    gloss="fire">אֵ֥שׁ</m>
                               </Node>
                            </Node>
                         </Node>
@@ -3739,7 +3808,8 @@
                               SDBH="004866001002000"
                               LexDomain="002002001011"
                               oshb-strongs="5307"
-                              CoreDomain="">יַפִּלֵ֑</m>
+                              CoreDomain=""
+                              gloss="let">יַפִּלֵ֑</m>
                         </Node>
                      </Node>
                   </Node>
@@ -3769,7 +3839,8 @@
                               SDBH="004866001002000"
                               LexDomain="002002001011"
                               CoreDomain=""
-                              lemma="הוּא">ם</m>
+                              lemma="הוּא"
+                              gloss="someone.make.them.fall">ם</m>
                         </Node>
                      </Node>
                   </Node>
@@ -3795,7 +3866,8 @@
                                  english="into"
                                  mandarin="在~里"
                                  transliteration="bə"
-                                 oshb-strongs="b">בְּ֝</m>
+                                 oshb-strongs="b"
+                                 gloss="in">בְּ֝</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="N2NP" Head="0" nodeId="1914001100720011">
@@ -3825,7 +3897,8 @@
                                  LexDomain="001005002002005"
                                  transliteration="mahămōrôṯ"
                                  oshb-strongs="4113"
-                                 CoreDomain="">מַהֲמֹר֗וֹת</m>
+                                 CoreDomain=""
+                                 gloss="pits">מַהֲמֹר֗וֹת</m>
                            </Node>
                         </Node>
                      </Node>
@@ -4048,7 +4121,8 @@
                                  english="in"
                                  mandarin="在"
                                  transliteration="bā"
-                                 oshb-strongs="b">בָּ֫</m>
+                                 oshb-strongs="b"
+                                 gloss="in">בָּ֫</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="DetNP" Head="1" nodeId="1914001200510020">
@@ -4067,7 +4141,8 @@
                                  type="definite article"
                                  english="the"
                                  transliteration="–"
-                                 oshb-strongs="d"/>
+                                 oshb-strongs="d"
+                                 gloss="the"/>
                            </Node>
                            <Node Cat="np" Rule="N2NP" Head="0" nodeId="1914001200520011">
                               <Node n="o191400120052"
@@ -4096,7 +4171,8 @@
                                     CoreDomain="185 097 007"
                                     LexDomain="001005002002001"
                                     transliteration="ʾāreṣ"
-                                    oshb-strongs="776">אָ֥רֶץ</m>
+                                    oshb-strongs="776"
+                                    gloss="land">אָ֥רֶץ</m>
                               </Node>
                            </Node>
                         </Node>
@@ -4229,7 +4305,8 @@
                                  SDBH="006143001001000"
                                  CoreDomain="084"
                                  LexDomain="002003002008"
-                                 oshb-strongs="6679a">יְ֝צוּדֶ֗</m>
+                                 oshb-strongs="6679a"
+                                 gloss="let">יְ֝צוּדֶ֗</m>
                            </Node>
                         </Node>
                      </Node>
@@ -4258,7 +4335,8 @@
                                  SDBH="006143001001000"
                                  LexDomain="002003002008"
                                  CoreDomain="084"
-                                 lemma="הוּא">נּוּ</m>
+                                 lemma="הוּא"
+                                 gloss="it.hunt.him">נּוּ</m>
                            </Node>
                         </Node>
                      </Node>
@@ -4282,7 +4360,8 @@
                                     english="in"
                                     mandarin="致"
                                     transliteration="lə"
-                                    oshb-strongs="l">לְ</m>
+                                    oshb-strongs="l"
+                                    gloss="for">לְ</m>
                               </Node>
                            </Node>
                            <Node Cat="np" Rule="N2NP" Head="0" nodeId="1914001201020011">
@@ -4312,7 +4391,8 @@
                                     LexDomain="002003003022"
                                     transliteration="maḏḥēp̄ōṯ:"
                                     oshb-strongs="4073"
-                                    CoreDomain="">מַדְחֵפֹֽת</m>
+                                    CoreDomain=""
+                                    gloss="blows">מַדְחֵפֹֽת</m>
                               </Node>
                            </Node>
                         </Node>
@@ -4723,7 +4803,8 @@
                                  english="to"
                                  mandarin="于"
                                  transliteration="li"
-                                 oshb-strongs="l">לִ</m>
+                                 oshb-strongs="l"
+                                 gloss="to">לִ</m>
                            </Node>
                         </Node>
                         <Node Cat="np" Rule="NPofNP" Head="0" nodeId="1914001400420020">
@@ -4752,7 +4833,8 @@
                                     oshb-strongs="8034"
                                     SDBH="007437001004000"
                                     LexDomain="003001016"
-                                    CoreDomain="">שְׁמֶ֑</m>
+                                    CoreDomain=""
+                                    gloss="your">שְׁמֶ֑</m>
                               </Node>
                            </Node>
                            <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914001400430011">
@@ -4780,7 +4862,8 @@
                                     SDBH="007437001004000"
                                     LexDomain="003001016"
                                     CoreDomain=""
-                                    lemma="הוּא">ךָ</m>
+                                    lemma="הוּא"
+                                    gloss="name">ךָ</m>
                               </Node>
                            </Node>
                         </Node>
@@ -4904,7 +4987,8 @@
                                     state="construct"
                                     english="presence"
                                     mandarin="面前"
-                                    oshb-strongs="6440">פָּנֶֽי</m>
+                                    oshb-strongs="6440"
+                                    gloss="presence">פָּנֶֽי</m>
                               </Node>
                            </Node>
                            <Node Cat="np" Rule="Pron2NP" Head="0" nodeId="1914001400820011">
@@ -4929,7 +5013,8 @@
                                     number="singular"
                                     english="your"
                                     mandarin="你"
-                                    lemma="הוּא">ךָ</m>
+                                    lemma="הוּא"
+                                    gloss="your">ךָ</m>
                               </Node>
                            </Node>
                         </Node>
